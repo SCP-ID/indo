@@ -30,14 +30,11 @@ $ git clone https://github.com/anggaxd/indo
 $ cd crack
 $ python2 indo.py
 ```
-## License 
-* ANGGAXD
 
 ## Informasi For Updates Script
 * Done Released Script
 * Done Updated List Password
 * Done Fix Errors Installed
 * Done Updateds News Template Menu
-* License
 Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
