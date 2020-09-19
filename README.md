@@ -9,7 +9,7 @@
  <img src="https://raw.githubusercontent.com/anggaxd/indo/master/20200919_153421.png" width="640" title="Menu" alt="Menu">
 </p>
 
-   ![](https://img.shields.io/badge/Language-2-blue) ![](https://img.shields.io/badge/Python-2.7-green) ![](https://img.shields.io/badge/Size-2.71MB-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
+   ![](https://img.shields.io/badge/Language-2-blue) ![](https://img.shields.io/badge/Python-2.7-green) ![](https://img.shields.io/badge/Size-10.3Kb-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
 
 ## Features
 * Cracking Indonesia
