@@ -36,5 +36,6 @@ $ python2 indo.py
 * Done Updated List Password
 * Done Fix Errors Installed
 * Done Updateds News Template Menu
+
 Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
